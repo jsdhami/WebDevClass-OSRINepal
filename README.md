@@ -1,7 +1,6 @@
 # Free Web Development Class-OSRI Nepal |All Notes and Codes|
 
 
-![Logo](https://osri.jsdhami.com.np/assets/custom/images/logo.png) 
 # This free web development class is sponsored by the Open Space for Research and Innovation [OSRI Nepal](https://osri.jsdhami.com.np).
 ![App Screenshot](https://jsdhami.github.io/WebDevClass-OSRINepal/Web%20development%20Class%20Slides%20For%201%20&%202%20days/Slide1.PNG)
 
